@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { scrollInto } from '@qoed/kit-utils/actions';
+	import { scrollInto } from '@qoed/kit-utils/actions/scroll-into';
 </script>
 
 <div>
