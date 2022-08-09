@@ -1,1 +1,1 @@
-export * from './scroll-into';
+export { scrollInto } from './scroll-into';
